@@ -29,7 +29,6 @@ To get started with FitFlick, download the app from the iOS App Store or Google 
 
 - **Flutter:** The UI toolkit used for cross-platform mobile development.
 - **Supabase:** Backend as a Service (BaaS) for authentication, database, and real-time updates.
-- **MobX:** State management to ensure the app is responsive and efficient.
 
 ## Vision
 
